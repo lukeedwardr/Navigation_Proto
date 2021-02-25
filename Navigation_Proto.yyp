@@ -4,6 +4,7 @@
     {"id":{"name":"Spr_Path","path":"sprites/Spr_Path/Spr_Path.yy",},"order":2,},
     {"id":{"name":"Spr_NPC_Interaction","path":"sprites/Spr_NPC_Interaction/Spr_NPC_Interaction.yy",},"order":4,},
     {"id":{"name":"PlayerControls","path":"scripts/PlayerControls/PlayerControls.yy",},"order":2,},
+    {"id":{"name":"Spr_Test","path":"sprites/Spr_Test/Spr_Test.yy",},"order":8,},
     {"id":{"name":"Obj_Player","path":"objects/Obj_Player/Obj_Player.yy",},"order":5,},
     {"id":{"name":"Spr_Forest","path":"sprites/Spr_Forest/Spr_Forest.yy",},"order":6,},
     {"id":{"name":"Spr_CompletionPoint","path":"sprites/Spr_CompletionPoint/Spr_CompletionPoint.yy",},"order":7,},
